@@ -1,0 +1,4 @@
+com/lavanya/gudimella/client/PersonClient.class
+com/lavanya/gudimella/vo/Person.class
+com/lavanya/gudimella/dao/PersonDao.class
+com/lavanya/gudimella/hibernate/HibernateConfiguration.class
